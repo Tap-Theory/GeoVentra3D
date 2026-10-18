@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeoVentra3D", "GeoVentra3D\GeoVentra3D.vcxproj", "{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Debug|x64.ActiveCfg = Debug|x64
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Debug|x64.Build.0 = Debug|x64
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Debug|x86.ActiveCfg = Debug|Win32
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Debug|x86.Build.0 = Debug|Win32
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Release|x64.ActiveCfg = Release|x64
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Release|x64.Build.0 = Release|x64
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Release|x86.ActiveCfg = Release|Win32
+		{36FB3BDF-A775-4EFE-96F6-9A108B6C599F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49C9A96-C1DF-483C-B7C2-BFE90DD00E83}
+	EndGlobalSection
+EndGlobal
