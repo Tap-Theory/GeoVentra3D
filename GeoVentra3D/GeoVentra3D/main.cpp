@@ -16,6 +16,8 @@
 #include "Mesh.h"
 #include "UI.h"
 
+// GeoVentra3D
+
 int main() {
     srand((unsigned)time(nullptr));
 
