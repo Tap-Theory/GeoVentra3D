@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GeoVentra3DClone/GeoVentra3DClone.vcxproj" Id="be754c3f-6a28-46aa-b9bc-234864a340c0" />
+</Solution>
